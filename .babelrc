@@ -1,0 +1,7 @@
+{
+    "presets": [
+        // to convert ES6 into common JS
+        "@babel/preset-env",
+        "@babel/preset-react"
+    ]
+}
